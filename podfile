@@ -1,0 +1,3 @@
+platform :ios, 8.0
+target “MasonryUseDemo”
+pod 'Masonry', '~> 1.0.1’
